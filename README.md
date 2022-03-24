@@ -4,6 +4,7 @@ Using a data visualization software called Tableau to present a business proposa
 ## Overview of the Analysis
 ![image](https://user-images.githubusercontent.com/94148420/159906669-ca3caaa9-0c0a-43ab-b434-1be1a7170294.png)
 
+![citi_bike](https://user-images.githubusercontent.com/94148420/159907840-fed544f3-706d-4896-bc58-13151541cecf.jpg)
 
 
 ### Resources
