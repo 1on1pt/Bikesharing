@@ -16,7 +16,7 @@ It will take a combination of my data expertise and critical thinking skills and
 
 **Data Source**
 * Data downloaded from Citi Bike System Data Page
-* ![citi_bike_data_image](https://user-images.githubusercontent.com/94148420/160024180-26dddeb4-39db-4703-939c-f4bfa51a3b1c.PNG)
+![citi_bike_data_image](https://user-images.githubusercontent.com/94148420/160024180-26dddeb4-39db-4703-939c-f4bfa51a3b1c.PNG)
 
 **Software/Data Tools:**
 * Tableau Public 2021.4.4
