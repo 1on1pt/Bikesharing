@@ -6,7 +6,17 @@ Using a data visualization software called Tableau to present a business proposa
 
 
 ### Resources
+**Code:**
+* challenge_logic.js
 
+**Data:**
+* 
+
+**Software/Data Tools:**
+* Tableau Public
+* Jupyter Notebook
+* Pandas 1.3.5
+* GitHub
 
 
 ## Results
