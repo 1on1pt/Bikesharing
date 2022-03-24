@@ -16,7 +16,6 @@ It will take a combination of my data expertise and critical thinking skills and
 
 **Data Source**
 * Data downloaded from Citi Bike System Data Page
-
   https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip
   
 
