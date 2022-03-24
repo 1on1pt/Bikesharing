@@ -7,10 +7,7 @@ Using a data visualization software called Tableau to present a business proposa
 
 ### Resources
 **Code:**
-* challenge_logic.js
-
-**Data:**
-* 
+* NYC_CitiBike_Challenge.ipynb
 
 **Software/Data Tools:**
 * Tableau Public
