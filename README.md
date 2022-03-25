@@ -34,7 +34,7 @@ It will take a combination of my data expertise and critical thinking skills and
 ![citi_bike_dashboard](https://user-images.githubusercontent.com/94148420/160211462-dd8a7224-ae95-46ae-b583-11d725325b04.PNG)
 
 A **dashboard** was created to display key metrics including:
-* Number of Trips = 2.3 million
+* Number of Trips = 2.3 million trips in August
 * Customer Type
     * Customer = 19%
     * Subcriber = 81%
