@@ -29,6 +29,9 @@ It will take a combination of my data expertise and critical thinking skills and
 
 
 ## Results
+### Dashboard for Key Metrics
+
+![citi_bike_dashboard](https://user-images.githubusercontent.com/94148420/160211462-dd8a7224-ae95-46ae-b583-11d725325b04.PNG)
 
 
 
