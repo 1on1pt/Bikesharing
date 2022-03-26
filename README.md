@@ -91,4 +91,16 @@ The following is a summary of the August 2019 Citi BikeShare data analysis using
 * Data indicate that the bikes are primarily used for commuting to and from work.  The busiest riding times are during the work week in the morning from 7AM to 9AM and in the evening from 5PM to 7PM.
 * Bike traffic is heaviest in the business district.
 
+There is a good business case that the DM BikeShare business proposal would be a successful business venture based on the NYC Citi BikeShare Analysis.  Lessons learned from the Citi BikeShare analysis to be applied and scaled to DM BikeShare would include:
+* Locate bike stations in and in proximity to the business district.
+* Market the program to potential **SUBSCRIBERS**.
+* Target the program to **COMMUTERS** traveling to and from work.
+
+### Additional Considerations for DM BikeShare
+* Assess the marked *Bike Routes* in and around Des Moines for additional bike stations.
+* Perform and analysis with spring and fall data, the ridership will be theoretically less.
+* Conduct a complete weather analysis for the entire year.
+* Conduct an analysis on potential tourism bikeshare users.
+* Consult with the Des Moines Chamber of Commerce on the business proposal.
+
 
