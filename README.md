@@ -31,9 +31,7 @@ It will take a combination of my data expertise and critical thinking skills and
 ## Results
 ### Citi BikeShare Analysis Tableau Public Link
 
-https://public.tableau.com/app/profile/john.beauchamp/viz/CitiBikeShareAnalysis/Story1#2
-
-https://public.tableau.com/app/profile/john.beauchamp/viz/CitiBikeShareAnalysis/Story1#2
+Link:  https://public.tableau.com/app/profile/john.beauchamp/viz/CitiBikeShareAnalysis/Story1#2
 
 ### Dashboard for Key Metrics
 
