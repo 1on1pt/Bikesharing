@@ -46,6 +46,7 @@ A **dashboard** was created to display key metrics including:
     * Female = 25.1%
     * Male = 65.3%
     * Unknown = 9.6%
+* High density of bike share users in the Midtown Manhattan area of NYC
 
 ### Check Out Times for Users
 ![check_out_times_for_users](https://user-images.githubusercontent.com/94148420/160246367-68a9a80e-32a6-42ce-b27d-7d4e0bb77fcc.PNG)
