@@ -70,7 +70,7 @@ Males make up the vast majority of the ridership, including the commute to and f
 ### User Trips by Gender by Weekday
 ![user_trips_by_gender_by_weekday](https://user-images.githubusercontent.com/94148420/160246818-b3fe9755-9d2d-4e4f-a6a4-3b4ca070de29.PNG)
 
-Male subcribers are the prominent user type for Citi Bike Share.
+Male subscribers are the prominent user type for Citi Bike Share.
 
 ### Top Starting Location
 ![top_starting_location](https://user-images.githubusercontent.com/94148420/160246885-f30cfdc6-51ef-4279-bd64-91cc70b1cbac.PNG)
@@ -100,7 +100,7 @@ There is a good business case that the DM BikeShare business proposal would be a
 * Assess the marked *Bike Routes* in and around Des Moines for additional bike stations.
 * Perform and analysis with spring and fall data, the ridership will be theoretically less.
 * Conduct a complete weather analysis for the entire year.
-* Conduct an analysis on potential tourism bikeshare users.
+* Conduct an analysis on potential tourism bike share users.
 * Consult with the Des Moines Chamber of Commerce on the business proposal.
 
 
