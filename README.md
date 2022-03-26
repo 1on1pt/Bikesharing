@@ -83,4 +83,12 @@ Business locations provide top areas to set up bike stations.
 Ridership is greatest during the morning and evening commute times.  Best to perform bike maintenance between 2AM - 4AM.
 
 ## Summary
+The following is a summary of the August 2019 Citi BikeShare data analysis using Tableau Public:
+* In August alone, 2.3 million trips were taken.
+* 81% of users are **SUBSCRIBERS**, whereas 19% are **CUSTOMERS**
+* Ridership is predominantly male at 65.3%, followed by females at 25.1%, and 9.6% are unknown.
+* Trip duration is relatively short with 99% under 60 minutes and 77% less than 20 minutes.
+* Data indicate that the bikes are primarily used for commuting to and from work.  The busiest riding times are during the work week in the morning from 7AM to 9AM and in the evening from 5PM to 7PM.
+* Bike traffic is heaviest in the business district.
+
 
