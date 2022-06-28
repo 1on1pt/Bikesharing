@@ -103,3 +103,7 @@ There is a good business case that the DM BikeShare business proposal would be a
 * Conduct a complete weather analysis for the entire year.
 * Conduct an analysis on potential tourist bike share users.
 * Consult with the Des Moines Chamber of Commerce on the business proposal.
+
+________________________________________________________
+### Contact:
+#### E-mail:jbeauchamppt@gmail.com
